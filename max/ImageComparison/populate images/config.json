@@ -1,0 +1,10 @@
+{
+	"baselineUrl": "https://adviseronlineportal.com.au",
+	"currentUrl": "https://www.aol.staging.challenger.com.au", 
+	"urls":[
+			"/",
+			"/register",
+			"/register/Thank_you",
+			"/Forgot details",
+			"/Terms and Conditions"
+]}
